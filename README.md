@@ -76,7 +76,7 @@ jupyter notebook
 
 Approach for Image Classification
 
-##References:
+## References:
 
 [kaggle-1-winning-approach-for-image-classification-challenge](https://medium.com/neuralspace/kaggle-1-winning-approach-for-image-classification-challenge-9c1188157a86) from Kumar Shridhar
 
