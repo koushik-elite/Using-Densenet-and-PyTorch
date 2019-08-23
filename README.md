@@ -81,4 +81,5 @@ Curently iam working on t-Distributed Stochastic Neighbor Embedding
 ## References:
 
 [kaggle-1-winning-approach-for-image-classification-challenge](https://medium.com/neuralspace/kaggle-1-winning-approach-for-image-classification-challenge-9c1188157a86) from Kumar Shridhar
+
 [t-Distributed Stochastic Neighbor Embedding](https://lvdmaaten.github.io/software/) from Laurens van der Maaten
