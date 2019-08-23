@@ -1,6 +1,6 @@
 # Using Densenet and PyTorch
 
-In this project i used Densenet for image classification in PyTorch with custom sampling function from [imbalanced-dataset-sampler](https://github.com/koushik-elite/imbalanced-dataset-sampler)
+In this project i used Densenet for image classification in PyTorch with custom sampling function for pytorch [imbalanced-dataset-sampler](https://github.com/koushik-elite/imbalanced-dataset-sampler)
 
 Final Project [Notebook](/Using%20Densenet%20and%20PyTorch.ipynb)
 
